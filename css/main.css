@@ -33,7 +33,7 @@ img
 {
 	background-position: center;
 	height: 100vh;
-	background-image: url(images/images/images/background1_01.png);
+	background-image: url(../images/images/images/background1_01.png);
 	background-size: cover;
 	color: white;
 	background-repeat: none;
